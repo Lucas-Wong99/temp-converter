@@ -1,0 +1,23 @@
+h2 {
+  font-size: 3rem;
+  color: white;
+}
+
+input {
+  width: 18rem;
+  height: 3rem;
+  padding: 0.5rem;
+  font-size: 2rem;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 1rem;
+}
+
+input:focus {
+  outline: none;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+}

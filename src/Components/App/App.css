@@ -1,0 +1,15 @@
+h1 {
+  font-size: 5rem;
+  margin-top: 5rem;
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+html {
+  background-image: url('./blue-background.jpg');
+  background-position: center ;
+  background-size: cover;
+}

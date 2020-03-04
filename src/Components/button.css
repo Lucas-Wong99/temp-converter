@@ -1,0 +1,21 @@
+button {
+  width: 15rem;
+  height: 6rem;
+  border: 2px solid white;
+  border-radius: 1rem;
+  color: white;
+  margin: 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: inherit;
+  transition: background-color 0.5s
+
+}
+
+button:hover {
+  background-color: #89cff0
+}
+
+button:focus {
+  outline: none;
+}
